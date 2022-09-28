@@ -1,4 +1,4 @@
 # wallet-swiftui
 A SwiftUI wallet app prototype
 
-![screenshot](./wallet/screenshot.png)
+<img src="Wallet/screenshot.png" data-canonical-src="Wallet/screenshot.png" width="300" />
